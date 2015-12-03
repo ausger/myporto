@@ -1,0 +1,27 @@
+app/code/community/AddThis/*								   app/code/community/AddThis
+app/code/local/*                                               app/code/local
+
+app/design/adminhtml/default/default/layout/*                   app/design/adminhtml/default/default/layout
+app/design/adminhtml/default/default/template/*                 app/design/adminhtml/default/default/template
+
+app/design/frontend/base/default/layout/*                       app/design/frontend/base/default/layout
+app/design/frontend/base/default/template/*                     app/design/frontend/base/default/template
+app/design/frontend/smartwave/*                                 app/design/frontend/smartwave
+
+app/etc/modules/*               								app/etc/modules
+app/locale/*                                                    app/locale
+
+js/magegiant/*                                                  js/magegiant
+js/smartwave/*                                                  js/smartwave
+
+lib/MaxMind/*                                                   lib/MaxMind
+lib/recaptcha/*                                                 lib/recaptcha
+
+media/dailydeal/*                                               media/dailydeal
+media/porto/*                                                   media/porto
+media/smartwave/*                                               media/smartwave
+media/wysiwyg/*                                                 media/wysiwyg
+
+skin/frontend/base/default/css/magegiant/*                      skin/frontend/base/default/css/magegiant
+skin/frontend/base/default/images/*                             skin/frontend/base/default/images
+skin/frontend/smartwave/*                                       skin/frontend/smartwave
