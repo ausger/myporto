@@ -1,0 +1,16 @@
+{
+    "require": {
+        "magento-hackathon/magento-composer-installer": "~3.0"
+    },
+    "repositories":[
+
+        {
+            "type":"composer",
+            "url":"http://packages.firegento.com"
+        }
+    ],
+    "extra":{
+        "magento-root-dir":"/Users/leishang/helenstreet/php/test/magerun.test",
+        "magento-deploystrategy":"copy"
+    }
+}
