@@ -1,4 +1,7 @@
 {
+    "name": "leoshang/myporto",
+    "type": "magento-module",
+    "description": "test project",
     "require": {
         "magento-hackathon/magento-composer-installer": "~3.0"
     },
