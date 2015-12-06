@@ -1,26 +1,57 @@
-app/code/community/AddThis/*								   app/code/community/AddThis
-app/code/local/*                                               app/code/local
+app/code/community/AddThis/*								    app/code/community/AddThis
 
-app/design/adminhtml/default/default/layout/*                   app/design/adminhtml/default/default/layout
-app/design/adminhtml/default/default/template/*                 app/design/adminhtml/default/default/template
+app/code/local/Magegiant/*                                      app/code/local/Magegiant
+app/code/local/Smartwave/*                                      app/code/local/Smartwave
 
-app/design/frontend/base/default/layout/*                       app/design/frontend/base/default/layout
-app/design/frontend/base/default/template/*                     app/design/frontend/base/default/template
+app/design/adminhtml/default/default/layout/magegiant/*         app/design/adminhtml/default/default/layout/magegiant
+app/design/adminhtml/default/default/layout/smartwave_blog.xml  app/design/adminhtml/default/default/layout/smartwave_blog.xml
+app/design/adminhtml/default/default/template/magegiant/*       app/design/adminhtml/default/default/template/magegiant
+app/design/adminhtml/default/default/template/smartwave/*       app/design/adminhtml/default/default/template/smartwave
+
+app/design/frontend/base/default/layout/magegiant/*             app/design/frontend/base/default/layout/magegiant
+app/design/frontend/base/default/layout/sharingtool.xml         app/design/frontend/base/default/layout/sharingtool.xml
+app/design/frontend/base/default/layout/smartlayers.xml         app/design/frontend/base/default/layout/smartlayers.xml
+app/design/frontend/base/default/template/addthis/*             app/design/frontend/base/default/template/addthis
+app/design/frontend/base/default/template/magegiant/*           app/design/frontend/base/default/template/magegiant
+app/design/frontend/base/default/template/porto/*               app/design/frontend/base/default/template/porto
+
 app/design/frontend/smartwave/*                                 app/design/frontend/smartwave
 
-app/etc/modules/*               								app/etc/modules
-app/locale/*                                                    app/locale
+app/etc/modules/AddThis_Sharingtool.xml               		    app/etc/modules/AddThis_Sharingtool.xml
+app/etc/modules/Magegiant_Dailydeal.xml               		    app/etc/modules/Magegiant_Dailydeal.xml
+app/etc/modules/Smartwave_Ajaxcart.xml               		    app/etc/modules/Smartwave_Ajaxcart.xml
+app/etc/modules/Smartwave_Ajaxcatalog.xml               		app/etc/modules/Smartwave_Ajaxcatalog.xml
+app/etc/modules/Smartwave_All.xml               		        app/etc/modules/Smartwave_All.xml
+app/etc/modules/Smartwave_Blog.xml              		        app/etc/modules/Smartwave_Blog.xml
+app/etc/modules/Smartwave_CatalogCategorySearch.xml             app/etc/modules/Smartwave_CatalogCategorySearch.xml
+app/etc/modules/Smartwave_Filterproducts.xml               		app/etc/modules/Smartwave_Filterproducts.xml
+app/etc/modules/Smartwave_Fullajax.xml               		    app/etc/modules/Smartwave_Fullajax.xml
+app/etc/modules/Smartwave_Homeslider.xml              		    app/etc/modules/Smartwave_Homeslider.xml
+app/etc/modules/Smartwave_Megamenu.xml               		    app/etc/modules/Smartwave_Megamenu.xml
+app/etc/modules/Smartwave_Porto.xml               		        app/etc/modules/Smartwave_Porto.xml
+app/etc/modules/Smartwave_QuickView.xml               		    app/etc/modules/Smartwave_QuickView.xml
+app/etc/modules/Smartwave_Socialfeeds.xml               		app/etc/modules/Smartwave_Socialfeeds.xml
+app/etc/modules/Smartwave_Socialicons.xml               		app/etc/modules/Smartwave_Socialicons.xml
+
+app/locale/de_DE/template/email/smartwave_blog/*                app/locale/de_DE/template/email/smartwave_blog
+app/locale/en_GB/template/email/smartwave_blog/*                app/locale/en_GB/template/email/smartwave_blog
+app/locale/en_US/template/email/smartwave_blog/*                app/locale/en_US/template/email/smartwave_blog
+app/locale/de_DE/template/Smartwave_Blog.csv                    app/locale/de_DE/template/Smartwave_Blog.csv
+app/locale/en_GB/template/Smartwave_Blog.csv                    app/locale/en_GB/template/Smartwave_Blog.csv
+app/locale/en_US/template/Smartwave_Blog.csv                    app/locale/en_US/template/Smartwave_Blog.csv
+
 
 js/magegiant/*                                                  js/magegiant
 js/smartwave/*                                                  js/smartwave
 
 lib/MaxMind/*                                                   lib/MaxMind
-lib/recaptcha/*                                                 lib/recaptcha
+lib/recaptcha/recaptchalib-smartwave.php                        lib/recaptcha/recaptchalib-smartwave.php
 
 media/porto/*                                                   media/porto
 media/smartwave/*                                               media/smartwave
-media/wysiwyg/*                                                 media/wysiwyg
+media/wysiwyg/porto/*                                           media/wysiwyg/porto
+media/wysiwyg/smartwave/*                                       media/wysiwyg/smartwave
 
 skin/frontend/base/default/css/magegiant/*                      skin/frontend/base/default/css/magegiant
-skin/frontend/base/default/images/*                             skin/frontend/base/default/images
+skin/frontend/base/default/images/magegiant/*                   skin/frontend/base/default/images/magegiant
 skin/frontend/smartwave/*                                       skin/frontend/smartwave
