@@ -17,7 +17,6 @@ js/smartwave/*                                                  js/smartwave
 lib/MaxMind/*                                                   lib/MaxMind
 lib/recaptcha/*                                                 lib/recaptcha
 
-media/dailydeal/*                                               media/dailydeal
 media/porto/*                                                   media/porto
 media/smartwave/*                                               media/smartwave
 media/wysiwyg/*                                                 media/wysiwyg
