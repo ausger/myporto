@@ -36,10 +36,9 @@ app/etc/modules/Smartwave_Socialicons.xml               		app/etc/modules/Smartw
 app/locale/de_DE/template/email/smartwave_blog/*                app/locale/de_DE/template/email/smartwave_blog
 app/locale/en_GB/template/email/smartwave_blog/*                app/locale/en_GB/template/email/smartwave_blog
 app/locale/en_US/template/email/smartwave_blog/*                app/locale/en_US/template/email/smartwave_blog
-app/locale/de_DE/template/Smartwave_Blog.csv                    app/locale/de_DE/template/Smartwave_Blog.csv
-app/locale/en_GB/template/Smartwave_Blog.csv                    app/locale/en_GB/template/Smartwave_Blog.csv
-app/locale/en_US/template/Smartwave_Blog.csv                    app/locale/en_US/template/Smartwave_Blog.csv
-
+app/locale/de_DE/Smartwave_Blog.csv                             app/locale/de_DE/Smartwave_Blog.csv
+app/locale/en_GB/Smartwave_Blog.csv                             app/locale/en_GB/Smartwave_Blog.csv
+app/locale/en_US/Smartwave_Blog.csv                             app/locale/en_US/Smartwave_Blog.csv
 
 js/magegiant/*                                                  js/magegiant
 js/smartwave/*                                                  js/smartwave
