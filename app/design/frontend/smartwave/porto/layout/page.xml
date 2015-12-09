@@ -77,7 +77,7 @@ Default layout, loads most of the pages
             </block>
             <block type="page/html_wrapper" name="top.container" as="topContainer" translate="label">
                 <label>Page Header</label>
-                <action method="setElementClass"><value>top-container</value></action>
+                <action method="setElementClass"><value>top-container container</value></action>
                 <block type="core/template" name="pageHeader" template="page/html/topcontainer.phtml">
                     <block type="core/template" name="page.header" template="page/html/page_header.phtml"/>
                     <block type="page/html_breadcrumbs" name="breadcrumbs" as="breadcrumbs"/>
