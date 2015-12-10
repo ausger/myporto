@@ -14,7 +14,7 @@
             <default>porto</default>
         </theme>
         <header>
-            <logo_src>images/logo.png</logo_src>
+            <logo_src>images/ausger_logo288116.png</logo_src>
         </header>
     </design>
     <cms>
@@ -157,21 +157,21 @@
             <footer_top_custom></footer_top_custom>
             <footer_middle_enabled>1</footer_middle_enabled>
             <footer_ribbon_enabled>1</footer_ribbon_enabled>
-            <footer_ribbon_text>Ribbon Text</footer_ribbon_text>
+            <footer_ribbon_text>AUSGER ONLINE</footer_ribbon_text>
             <footer_middle_column_1>custom</footer_middle_column_1>
-            <footer_middle_column_1_custom>porto_footer_links</footer_middle_column_1_custom>
+            <footer_middle_column_1_custom>ausger_footer_service</footer_middle_column_1_custom>
             <footer_middle_column_1_size>3</footer_middle_column_1_size>
             <footer_middle_column_2>custom</footer_middle_column_2>
-            <footer_middle_column_2_custom>porto_footer_contact_information</footer_middle_column_2_custom>
+            <footer_middle_column_2_custom>ausger_footer_rechtliches</footer_middle_column_2_custom>
             <footer_middle_column_2_size>3</footer_middle_column_2_size>
             <footer_middle_column_3>custom</footer_middle_column_3>
-            <footer_middle_column_3_custom>porto_footer_features</footer_middle_column_3_custom>
+            <footer_middle_column_3_custom>ausger_footer_zahlungsarten</footer_middle_column_3_custom>
             <footer_middle_column_3_size>3</footer_middle_column_3_size>
             <footer_middle_column_4>newsletter</footer_middle_column_4>
             <footer_middle_column_4_custom></footer_middle_column_4_custom>
             <footer_middle_column_4_size>3</footer_middle_column_4_size>
-            <footer_newsletter><![CDATA[Get all the latest information on Events,<br/>Sales and Offers. Sign up for newsletter today.]]></footer_newsletter>
-            <footer_newsletter_title>Be the First to Know</footer_newsletter_title>
+            <footer_newsletter><![CDATA[<div class="block"><div class="block-content"><ul class="features"><li><i class="icon-star-empty theme-color"></i><a href="#">Top Marken & Überzeugende Produktqualität zu günstigen Preisen</a></li><li><i class="icon-star-empty theme-color"></i><a href="#">Umweltfreundlich und sozialverträglich hergestellte Produkten</a></li><li><i class="icon-star-empty theme-color"></i><a href="#">Sicher einkaufen dank Trusted Shops Zertifizierung und (kostenloser) Geld-zurück-Garantie</a></li></ul></div></div>]]></footer_newsletter>
+            <footer_newsletter_title>AUSGER Vorteile</footer_newsletter_title>
             <footer_middle_2_enabled>0</footer_middle_2_enabled>
             <footer_middle_2_column_1>custom</footer_middle_2_column_1>
             <footer_middle_2_column_1_custom>porto_footer_2nd_row_shop</footer_middle_2_column_1_custom>
@@ -187,8 +187,8 @@
             <footer_middle_2_column_4_size>4</footer_middle_2_column_4_size>
             <footer_bottom_socialicons>1</footer_bottom_socialicons>
             <footer_bottom_enabled>1</footer_bottom_enabled>
-            <footer_logo>images/logo_footer.png</footer_logo>
-            <copyrights><![CDATA[&copy;Copyright 2015 by SW-THEMES. All Rights Reserved.]]></copyrights>
+            <footer_logo>images/ausger-footer-logo-10970.jpg</footer_logo>
+            <copyrights><![CDATA[*Preisangaben inkl. gesetzl. MwSt. und zzgl. Service- & Versandkosten Copyright © 2015 myToys.de GmbH - Alle Rechte vorbehalten.]]></copyrights>
             <footer_bottom_custom_block>1</footer_bottom_custom_block>
             <footer_bottom_custom_block_id>porto_footer_bottom_custom_block</footer_bottom_custom_block_id>
             <footer_bottom_custom_block_2>0</footer_bottom_custom_block_2>
@@ -231,8 +231,8 @@
         </product_compare>
         <newsletter_popup>
             <enabled>1</enabled>
-            <show_logo>images/logo.png</show_logo>
-            <newsletter_content><![CDATA[<h2>BE THE FIRST TO KNOW</h2><p>Subscribe to the Porto eCommerce newsletter to receive timely updates from your favorite products.</p>]]></newsletter_content>
+            <show_logo>images/ausger-newsletterpopup-logo-11174.jpg</show_logo>
+            <newsletter_content><![CDATA[<h2>BE THE FIRST TO KNOW</h2><p>Subscribe to the AUSGER eCommerce newsletter to receive timely updates from your favorite products.</p>]]></newsletter_content>
             <newsletter_width>700px</newsletter_width>
             <newsletter_height>324px</newsletter_height>
             <newsletter_bg_color></newsletter_bg_color>

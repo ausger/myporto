@@ -2600,5 +2600,61 @@ jQuery(function($) {
          <is_active>1</is_active>
          <stores><item>0</item></stores>
       </cms_block>
+       <!--AUSGER CMS_BLOCK BEGINN -->
+       <cms_block>
+           <title>Ausger - Footer - Service</title>
+           <identifier>ausger_footer_service</identifier>
+           <content><![CDATA[<div class="block">
+    <div class="block-title"><strong><span>Service</span></strong></div>
+    <div class="block-content">
+<ul class="links">
+    <li><i class="icon-right-dir theme-color"></i><a href="{{config path="web/unsecure/base_url"}}versandkosten" title="Versandkosten">Versandkosten</a></li>
+    <li><i class="icon-right-dir theme-color"></i><a href="{{config path="web/unsecure/base_url"}}widerruf" title="Widerruf und Rückgabe">Widerruf und Rückgabe</a></li>
+    <li><i class="icon-right-dir theme-color"></i><a href="{{config path="web/unsecure/base_url"}}lieferservice" title="Lieferservice">Lieferservice</a></li>
+    <li><i class="icon-right-dir theme-color"></i><a href="{{config path="web/unsecure/base_url"}}bestellvorgang" title="Online Bestellvorgang">Online Bestellvorgang</a></li>
+    <li><i class="icon-right-dir theme-color"></i><a href="{{config path="web/unsecure/base_url"}}contact" title="Kontakt">Kontakt</a></li>
+    <li><i class="icon-right-dir theme-color"></i><a href="{{config path="web/unsecure/base_url"}}contact" title="Kontakt">Sitemap</a></li>
+    <li><i class="icon-right-dir theme-color"></i><a href="{{config path="web/unsecure/base_url"}}faq" title="FAQ - Häufig gestellte Fragen">FAQ - Häufig gestellte Fragen</a></li>
+</ul>
+</div>
+</div>]]></content>
+           <is_active>1</is_active>
+           <stores><item>2</item></stores>
+       </cms_block>
+       <cms_block>
+           <title>Ausger - Footer - Rechtliches</title>
+           <identifier>ausger_footer_rechtliches</identifier>
+           <content><![CDATA[<div class="block">
+    <div class="block-title"><strong><span>Rechtliches</span></strong></div>
+    <div class="block-content">
+<ul class="links">
+    <li><i class="icon-right-dir theme-color"></i><a href="{{config path="web/unsecure/base_url"}}aboutus" title="Über uns">Über uns</a></li>
+    <li><i class="icon-right-dir theme-color"></i><a href="{{config path="web/unsecure/base_url"}}agb" title="AGB">AGB</a></li>
+    <li><i class="icon-right-dir theme-color"></i><a href="{{config path="web/unsecure/base_url"}}widerruf" title="Widerrufsrecht/-formular">Widerrufsrecht/-formular</a></li>
+    <li><i class="icon-right-dir theme-color"></i><a href="{{config path="web/unsecure/base_url"}}privacy" title="Datenschutz">Datenschutz</a></li>
+    <li><i class="icon-right-dir theme-color"></i><a href="{{config path="web/unsecure/base_url"}}impressum" title="Impressum">Impressum</a></li>
+</ul>
+</div>
+</div>]]></content>
+           <is_active>1</is_active>
+           <stores><item>2</item></stores>
+       </cms_block>
+       <cms_block>
+           <title>Ausger - Footer - Zahlungsarten</title>
+           <identifier>ausger_footer_zahlungsarten</identifier>
+           <content><![CDATA[<div class="block">
+    <div class="block-title"><strong><span>Zahlungsarten</span></strong></div>
+    <div class="block-content">
+<ul class="features">
+    <li><i class="icon-ok theme-color"></i><a href="#">SOFORT Überweisung</a></li>
+    <li><i class="icon-ok  theme-color"></i><a href="#">PayPal</a></li>
+    <li><i class="icon-ok  theme-color"></i><a href="#">Kreditkarte</a></li>
+</ul>
+</div>
+</div>]]></content>
+           <is_active>1</is_active>
+           <stores><item>2</item></stores>
+       </cms_block>
+       <!--AUSGER CMS_BLOCK END -->
    </blocks>
 </root>
