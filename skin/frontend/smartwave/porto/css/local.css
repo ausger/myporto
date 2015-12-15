@@ -3673,7 +3673,7 @@ ol#products-list .bottom-home-dailydeal ul.time-left li span.text-time{font-size
 
 .top-newsletter #newsletter{width:300px;height:30px;border-radius:0;line-height:16px}
 .top-newsletter button.button{position:absolute;right:0;top:0}
-.top-newsletter button.button span{height:30px;line-height:30px;border-radius:0;color:#000;background-color:transparent}
+.top-newsletter button.button span{height:30px;line-height:30px;border-radius:0;color:#32b446;background-color:transparent;font-weight:600}
 .input-box{position:relative}
 .validation-advice:before{content:"\e820";font-family:"porto";font-size:8px;position:absolute;left:3px;top:1px}
 .product-options .validation-advice{position:relative}
