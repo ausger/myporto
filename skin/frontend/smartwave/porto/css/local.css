@@ -1087,6 +1087,7 @@ dl#narrow-by-list{margin:0}
 
 /* Category Page ========================================================================= */
 .top-container .category-banner{background-color:transparent}
+.top-container.container{padding-left:0px;padding-right:0px}
 .top-container .category-banner .banner-image{width:100%}
 .category-banner .owl-theme .owl-controls{position:relative;margin-top:-30px;height:30px}
 .category-banner .banner-text{position:absolute;top:30%;width:100%;color:#fff}
@@ -2580,8 +2581,8 @@ h2.sidebar-title{margin-bottom:20px;font-size:16px;font-weight:bold;text-transfo
 .sidebar-filterproducts .owl-top-narrow{margin:0}
 
 /******** Homepage Bar(5) ***********/
-.homepage-bar{border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;background-color:#fbfbfb}
-.homepage-bar .col-md-4{border-left:1px solid #e1e1e1;padding-top:20px;padding-bottom:21px}
+.homepage-bar{border-top:0px solid #e1e1e1;border-bottom:0px solid #e1e1e1;background-color:#fbfbfb}
+.homepage-bar .col-md-12 img{border:0px solid #e1e1e1;padding-top:5px;}
 .homepage-bar .col-md-4:first-child{border-left:0}
 .homepage-bar i{font-size:34px;color:#000;display:inline-block;vertical-align:middle}
 .homepage-bar i:before{width:auto}
