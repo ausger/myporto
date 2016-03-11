@@ -46,10 +46,16 @@ js/smartwave/*                                                  js/smartwave
 lib/MaxMind/*                                                   lib/MaxMind
 lib/recaptcha/recaptchalib-smartwave.php                        lib/recaptcha/recaptchalib-smartwave.php
 
-media/porto/*                                                   media/porto
+media/porto/newsletter_popup/*                                  media/porto/newsletter_popup
+media/porto/page/stores/*                                       media/porto/page/stores/
 media/smartwave/*                                               media/smartwave
-media/wysiwyg/porto/*                                           media/wysiwyg/porto
-media/wysiwyg/smartwave/*                                       media/wysiwyg/smartwave
+media/wysiwyg/porto/aboutus/*                                   media/wysiwyg/porto/aboutus
+media/wysiwyg/porto/ads/*                                       media/wysiwyg/porto/ads
+media/wysiwyg/porto/blog/*                                      media/wysiwyg/porto/blog
+media/wysiwyg/porto/category/*                                  media/wysiwyg/porto/category
+media/wysiwyg/porto/homepage/*                                  media/wysiwyg/porto/homepage
+media/wysiwyg/smartwave/blog/*                                  media/wysiwyg/smartwave/blog
+media/wysiwyg/smartwave/footer/*                                media/wysiwyg/smartwave/footer
 
 skin/frontend/base/default/css/magegiant/*                      skin/frontend/base/default/css/magegiant
 skin/frontend/base/default/images/magegiant/*                   skin/frontend/base/default/images/magegiant
