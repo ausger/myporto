@@ -52,7 +52,7 @@ media/smartwave/*                                               media/smartwave
 media/wysiwyg/porto/aboutus/*                                   media/wysiwyg/porto/aboutus
 media/wysiwyg/porto/ads/*                                       media/wysiwyg/porto/ads
 media/wysiwyg/porto/blog/*                                      media/wysiwyg/porto/blog
-media/wysiwyg/porto/category/*                                  media/wysiwyg/porto/category
+media/wysiwyg/porto/category                                    media/wysiwyg/porto/category
 media/wysiwyg/porto/homepage/*                                  media/wysiwyg/porto/homepage
 media/wysiwyg/smartwave/blog/*                                  media/wysiwyg/smartwave/blog
 media/wysiwyg/smartwave/footer/*                                media/wysiwyg/smartwave/footer
