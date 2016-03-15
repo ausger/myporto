@@ -14,7 +14,7 @@ class Smartwave_Porto_Block_Adminhtml_Button_Import_Cms extends Mage_Adminhtml_B
 		if (isset($data['label']))
 			$buttonSuffix = ' ' . $data['label'];
 
-		$url = $this->getUrl('porto/adminhtml_import/' . $process);
+		$url = $this->getUrl('adminhtml/porto_import/' . $process);
 		
 		$html = $this->getLayout()->createBlock('adminhtml/widget_button')
 			->setType('button')

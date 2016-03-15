@@ -1,6 +1,6 @@
 <?php
 
-class Magegiant_Dailydeal_Adminhtml_DailydealController extends Mage_Adminhtml_Controller_Action
+class Magegiant_Dailydeal_Adminhtml_Dailydealadmin_DailydealController extends Mage_Adminhtml_Controller_Action
 {
 	protected function _initAction()
 	{

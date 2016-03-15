@@ -17,7 +17,7 @@
  * @license     http://magegiant.com/license-agreement.html
  */
 
-class Magegiant_Magegiantcore_Adminhtml_MagegiantController extends Mage_Adminhtml_Controller_Action{
+class Magegiant_Magegiantcore_Adminhtml_Magegiantcore_MagegiantController extends Mage_Adminhtml_Controller_Action{
 
     public function indexAction()
     {

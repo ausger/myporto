@@ -1,6 +1,6 @@
 <?php
 
-class Magegiant_Magegiantcore_Adminhtml_LicenseController extends Mage_Adminhtml_Controller_Action
+class Magegiant_Magegiantcore_Adminhtml_Magegiantcore_LicenseController extends Mage_Adminhtml_Controller_Action
 {
 	public function upgradeAction()
 	{
