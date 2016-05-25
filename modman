@@ -39,6 +39,8 @@ app/locale/en_US/template/email/smartwave_blog/*                app/locale/en_US
 app/locale/de_DE/Smartwave_Blog.csv                             app/locale/de_DE/Smartwave_Blog.csv
 app/locale/en_GB/Smartwave_Blog.csv                             app/locale/en_GB/Smartwave_Blog.csv
 app/locale/en_US/Smartwave_Blog.csv                             app/locale/en_US/Smartwave_Blog.csv
+app/locale/zh_TW/*                                              app/locale/zh_TW
+
 
 js/magegiant/*                                                  js/magegiant
 js/smartwave/*                                                  js/smartwave
