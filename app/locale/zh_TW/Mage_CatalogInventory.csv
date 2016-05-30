@@ -43,6 +43,8 @@
 "Some of the products cannot be ordered in the requested quantity.","部分產品無法按照要求的數量訂購"
 "Stock Options","庫存選項"
 "Stock Status","庫存狀態"
+"work days","工作日"
+"Lead time","配貨時間"
 "The maximum quantity allowed for purchase is %s.","最大允許購買數量為 %s"
 "The minimum quantity allowed for purchase is %s.","最低允許購買數量為 %s"
 "The requested quantity for ""%s"" is not available.","訂購""%s""的數量沒有庫存"

@@ -1476,6 +1476,22 @@ li.etalage_small_thumbs{margin-top:8px;top:100%}
 .data-table.grouped-items-table th,.data-table.grouped-items-table td{padding:10px 20px}
 .product-view .product-shop .grouped-items-table .price-box .price{font-size:18px}
 .product-view .product-shop .grouped-items-table .price-box .old-price .price{font-size:14px}
+
+.mediumleadtime {
+    background: rgba(0, 0, 0, 0) url("/media/wysiwyg/porto/homepage/content/05/leadtime_available.jpg") no-repeat scroll left center !important;
+    color: #eba000;
+    display: inline-block;
+    letter-spacing: 0.05em;
+    padding-left: 30px;
+}
+
+.ag_productavailability {
+    font-size: 1.25rem !important;
+    margin: 0;
+    padding: 0 0 10px;
+    text-align: left;
+}
+
 /* Product Options */
 .product-options{margin:20px 0 0;position:relative;padding-bottom:20px;border-bottom:1px solid #ebebeb}
 .col1-layout .product-options{float:left;width:50%;border:0}
