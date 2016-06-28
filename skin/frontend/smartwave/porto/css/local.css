@@ -1276,6 +1276,7 @@ div.star-rating a{transition:initial}
 
 .product-view .product-shop .availability{font-size:11px}
 .product-view .product-shop .availability span{font-weight:normal;margin-left:5px}
+.tax-details {color: #777;font-size: 14px;font-weight: 600;}
 
 /* Email to a Friend */
 .email-friend{margin:0}

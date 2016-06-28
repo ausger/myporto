@@ -826,3 +826,8 @@
 "select all","全選"
 "unselect all","取消全選"
 "x","x"
+"Excl. %s Tax","不含 %s 增值税"
+"Incl. %s Tax","包括 %s 增值税"
+"Excl. Tax","不含增值税"
+"Incl. Tax","包括增值税"
+
