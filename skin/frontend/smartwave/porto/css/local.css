@@ -526,7 +526,8 @@ tr.summary-details-excluded{font-style:italic}
 .top-container .paypal-logo{text-align:left;display:inline-table}
 .header .custom-block{font-size:14px;font-weight:400;display:inline-block;vertical-align:middle}
 .fixed-header-area{z-index:1001;text-align:left;transition:0.5s top ease-in-out;-webkit-transition:0.5s top ease-in-out}
-
+.form-currency .selectbox li a {font-size: 14px}
+.form-currency .selectbox .select .text{font-size: 18px;font-weight: bold}
 .mini-cart{position:absolute;right:20px;top:50%;margin-top:-20px;text-align:right}
 .topCartContent{display:none;position:absolute;right:0;top:40px;width:300px;background-color:#fff;border-width:6px 0 0 0;border-style:solid;z-index:1;border-radius:8px 8px 5px 5px;color:#777;box-shadow:0 2px 8px rgba(0,0,0,0.5);margin-top:10px}
 .topCartContent:before{content:"";position:absolute;border:10px solid transparent;display:block;right:15px;top:-25px;border-bottom-color:#08c}
