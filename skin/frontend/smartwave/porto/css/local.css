@@ -513,10 +513,10 @@ tr.summary-details-excluded{font-style:italic}
 .header-container .form-currency{display:block;float:left;margin-right:8px}
 .header-container .form-language select,
 .header-container .form-currency select{display:none}
-.header-container .links{display:block;float:right;padding:0;margin:3px 0;color:#08c}
+.header-container .links{display:block;float:right;padding:0;margin:10px 0 0;color:#08c}
 .header-container .top-links-area{display:block;float:right;padding:0;position:relative}
 .header-container .top-links a{color:#999}
-.header-container .top-links-area a{padding-top:5px;padding-bottom:5px}
+.header-container .top-links-area a{padding-top:5px;padding-bottom:5px;font-size:1.8em;font-weight:700}
 .header-container .top-links a:hover{}
 .header-container .top-links .selectbox li a:hover{color:#fff}
 .header-container .links li{font-size:11px;padding:0 15px;text-transform:uppercase;line-height:19px;border-left:1px solid #ccc}
@@ -1277,10 +1277,9 @@ div.star-rating a{transition:initial}
 .product-view .product-shop .availability{font-size:11px}
 .product-view .product-shop .availability span{font-weight:normal;margin-left:5px}
 .tax-details {color: #777;font-size: 14px;font-weight: 600;}
-
 /* Email to a Friend */
 .email-friend{margin:0}
-
+.top-menu-button{background-color: #08c; color: #fff; display: block; font-weight: 700}
 /* Alerts */
 .alert-price{margin:0;font-size:11px}
 .alert-stock{margin:0;font-size:11px}

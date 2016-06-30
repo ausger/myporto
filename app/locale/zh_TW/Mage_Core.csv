@@ -388,3 +388,7 @@
 "You will have to log in after you save your custom admin path.","在儲存自訂管理路徑後您會需要重新登入"
 "Your design change for the specified store intersects with another one, please specify another date range.","您指定的商店設計變動跟另一個產生重疊，請指定另外一個期間"
 "database ""%s""","資料庫""%s"""
+"MENU","目錄"
+"EUR","歐元"
+"CNY","人民幣"
+"Login/Register","登陸｜建立帳號"

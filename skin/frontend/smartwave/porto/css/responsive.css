@@ -263,7 +263,7 @@
     .header-container.type4 .header .custom-block{display:none}
     .header-container.type4 .header .logo img{height:50px}
     .header-container.type4 .header #search_mini_form{display:none;width:0;margin:0}
-    .header-container.type4 .menu-icon{width:30px;text-align:center;line-height:40px;height:auto;padding:0;display:block;float:right;margin:5px}
+    .header-container.type4 .menu-icon{width:80px;text-align:center;line-height:40px;height:auto;padding:0;display:block;float:right;margin:5px}
     .header-container.type4 .cart-area{float:right;position:static;margin:5px 0}
     .header-container.type4 .search-area{position:relative;left:0;top:0;float:right;margin:5px;z-index:2}
     .header-container.type4 .search-area .search-icon{display:block;line-height:40px}

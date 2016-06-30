@@ -74,9 +74,7 @@
             <action method="setTemplate" ifconfig="porto_settings/header/type" condition="12"><template>page/html/header_type13.phtml</template></action>
             <action method="setTemplate" ifconfig="porto_settings/header/type" condition="13"><template>page/html/header_type14.phtml</template></action>
             <block type="directory/currency" name="store_currency" template="page/switch/currency.phtml"/>
-			<block type="catalog/product_compare_sidebar" name="compare_link">
-				<action method="setTemplate" ifconfig="porto_settings/product_compare/show_link"><template>catalog/product/compare/compare_link.phtml</template></action>
-			</block>
+
             <block type="checkout/cart_sidebar" name="minicart">
                 <action method="setTemplate"><template>checkout/cart/minicart.phtml</template></action>
                 <action method="addItemRender"><type>default</type><block>checkout/cart_item_renderer</block><template>checkout/cart/minicart/default.phtml</template></action>
