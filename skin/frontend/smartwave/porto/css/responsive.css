@@ -225,7 +225,7 @@
 }
 @media (max-width:991px){
     body.boxed .page{width:760px}
-    .header-container .welcome-msg,.header-container .top-links-area+span.split{display:none}
+    .header-container .welcome-msg,.header-container .top-links-area+span.split{display:block}
 	.home-side-menu{display:none}
     .add-to-cart button.button{width:140px}
     
