@@ -23,6 +23,7 @@ app/etc/modules/Smartwave_Ajaxcart.xml               		    app/etc/modules/Smart
 app/etc/modules/Smartwave_Ajaxcatalog.xml               		app/etc/modules/Smartwave_Ajaxcatalog.xml
 app/etc/modules/Smartwave_All.xml               		        app/etc/modules/Smartwave_All.xml
 app/etc/modules/Smartwave_Blog.xml              		        app/etc/modules/Smartwave_Blog.xml
+app/etc/modules/Smartwave_CountryDirectory.xml                  app/etc/modules/Smartwave_CountryDirectory.xml
 app/etc/modules/Smartwave_CatalogCategorySearch.xml             app/etc/modules/Smartwave_CatalogCategorySearch.xml
 app/etc/modules/Smartwave_Filterproducts.xml               		app/etc/modules/Smartwave_Filterproducts.xml
 app/etc/modules/Smartwave_Fullajax.xml               		    app/etc/modules/Smartwave_Fullajax.xml
